@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # shopping-cart
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,6 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue-shopping-cart
+>>>>>>> efe0b236430c92e3827156de0bdfb81e6a05fcc4
